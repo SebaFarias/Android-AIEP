@@ -1,4 +1,3 @@
-package numerosperfectos;
 import java.util.Scanner;
 
 public class NumerosPerfectos {
