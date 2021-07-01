@@ -1,7 +1,7 @@
 # Módulo PROGRAMACIÓN BÁSICA EN JAVA
    Ejercicios del 1er módulo del curso "Desarrollo de aplicaciones móviles Android Trainee" / BOTIC-SOFOF-20-14-13-0016
 
-   - [Día 4 semana 1 - Primer día](./)
+   - [Día 4 semana 1 - Primer día](./evidencias/ED4S1.md)
    - [Día 5 semana 1 - Segundo día](./)
    - [Día 1 semana 2 - Tercer día](./)
    - [Día 2 semana 2 - Cuarto día](./)
