@@ -1,11 +1,12 @@
 # Evidencia Día 4 Semana 1
 ## Tabla de Contenido
-- [Preparar un Sándwich](https://github.dev/SebaFarias/modulo_programacion_basica_en_java/blob/master/evidencias/ED4S1.md#1-sandwich)
-- [Reemplazar una Rueda](https://github.dev/SebaFarias/modulo_programacion_basica_en_java/blob/master/evidencias/ED4S1.md#2-rueda)
-- [Cambiar el Pañal](https://github.dev/SebaFarias/modulo_programacion_basica_en_java/blob/master/evidencias/ED4S1.md#3-pañal)
-- [Cambiar clave correo](https://github.dev/SebaFarias/modulo_programacion_basica_en_java/blob/master/evidencias/ED4S1.md#4-clave)
-- [Reflexión](https://github.dev/SebaFarias/modulo_programacion_basica_en_java/blob/master/evidencias/ED4S1.md#5-reflexion)
-## Ejercicios
+- [Ejercicios](#0-ejercicios)
+- [Preparar un Sándwich](#1-sandwich)
+- [Reemplazar una Rueda](#2-rueda)
+- [Cambiar el Pañal](#3-pañal)
+- [Cambiar clave correo](#4-clave)
+- [Reflexión](#5-reflexion)
+## 0 Ejercicios
  1. Elaborar un algoritmo para preparar un sándwich. Definir los elementos de entrada y salida.
  2. Cambiar la rueda de un vehículo. Definir los elementos de entrada y salida.
  3. Cambiar el pañal de un bebé. Definir los elementos de entrada y salida.
