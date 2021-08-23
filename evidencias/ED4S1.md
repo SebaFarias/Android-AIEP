@@ -1,12 +1,12 @@
 # Evidencia Día 4 Semana 1
 ## Tabla de Contenido
-- [Ejercicios](#0-ejercicios)
+- [Ejercicios](#ejercicios)
 - [Preparar un Sándwich](#1-sandwich)
 - [Reemplazar una Rueda](#2-rueda)
 - [Cambiar el Pañal](#3-pañal)
 - [Cambiar clave correo](#4-clave)
-- [Reflexión](#5-reflexion)
-## 0 Ejercicios
+- [Reflexión](#reflexion)
+## Ejercicios
  1. Elaborar un algoritmo para preparar un sándwich. Definir los elementos de entrada y salida.
  2. Cambiar la rueda de un vehículo. Definir los elementos de entrada y salida.
  3. Cambiar el pañal de un bebé. Definir los elementos de entrada y salida.
@@ -88,5 +88,5 @@ Un aliado
 #### 4.3 Salida
 - Cuenta de correo Electrónico
 - Contraseña Actualizada
-## 5 Reflexion
+## Reflexion
 No asistí a esta clase porque no se tramitó a tiempo mi solicitud al curso, por lo que me siento algo perdido respecto a lo que se habrá habalado en clases, me desmotivó bastante eso.
