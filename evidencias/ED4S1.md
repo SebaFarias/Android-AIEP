@@ -1,17 +1,17 @@
 # Evidencia Día 4 Semana 1
 ## Tabla de Contenido
-- [Preparar un Sándwich](#sandwich)
-- [Reemplazar una Rueda](#rueda)
-- [Cambiar el Pañal](#pañal)
-- [Cambiar clave correo](#clave)
-- [Reflexión](#refelexion)
+- [Preparar un Sándwich](https://github.dev/SebaFarias/modulo_programacion_basica_en_java/blob/master/evidencias/ED4S1.md#1-sandwich)
+- [Reemplazar una Rueda](https://github.dev/SebaFarias/modulo_programacion_basica_en_java/blob/master/evidencias/ED4S1.md#2-rueda)
+- [Cambiar el Pañal](https://github.dev/SebaFarias/modulo_programacion_basica_en_java/blob/master/evidencias/ED4S1.md#3-pañal)
+- [Cambiar clave correo](https://github.dev/SebaFarias/modulo_programacion_basica_en_java/blob/master/evidencias/ED4S1.md#4-clave)
+- [Reflexión](https://github.dev/SebaFarias/modulo_programacion_basica_en_java/blob/master/evidencias/ED4S1.md#5-reflexion)
 ## Ejercicios
  1. Elaborar un algoritmo para preparar un sándwich. Definir los elementos de entrada y salida.
  2. Cambiar la rueda de un vehículo. Definir los elementos de entrada y salida.
  3. Cambiar el pañal de un bebé. Definir los elementos de entrada y salida.
  4. Cambiar la clave del correo electrónico. Definir los elementos de entrada y salida.
 
-### Sandwich
+### 1 Sandwich
 #### 1.1 Entrada
 - Pan
 - Cuchillo
@@ -26,7 +26,7 @@
 6) Posicionar la otra mitad de pan con la corteza hacia arriba y el interior hacia abajo sobe la lámina de jamón alineándola con la primera mitad de pan.
 #### 1.3 Salida
 Un aliado
-### Rueda
+### 2 Rueda
 #### 2.1 Entrada
 - Auto con una rueda pinchada
 - Rueda de repuesto
@@ -49,7 +49,7 @@ Un aliado
 #### 2.3 Salida
 - Un auto funcional
 - Una rueda dañada que debe repararse lo antes posible
-### Pañal
+### 3 Pañal
 #### 3.1 Entrada
 - Bebé 
 - Pañal sucio
@@ -72,7 +72,7 @@ Un aliado
 
 #### 3.3 Salida
 - Bebé con pañal limpio
-### Clave
+### 4 Clave
 #### 4.1 Entrada
 - Cuenta de Correo Electrónico
 - Contraseña Actual
@@ -87,5 +87,5 @@ Un aliado
 #### 4.3 Salida
 - Cuenta de correo Electrónico
 - Contraseña Actualizada
-## 5 Reflexión
+## 5 Reflexion
 No asistí a esta clase porque no se tramitó a tiempo mi solicitud al curso, por lo que me siento algo perdido respecto a lo que se habrá habalado en clases, me desmotivó bastante eso.
