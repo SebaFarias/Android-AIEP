@@ -36,6 +36,7 @@ public class NumerosPerfectos {
             }else{
                 System.out.println("Esta bien, hasta pronto!");
                 continuar = false;
+                leer.close();
             }
         }while(continuar);
         
