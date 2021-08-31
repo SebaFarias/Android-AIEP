@@ -13,15 +13,15 @@
 - Cuenta correo 
 
 #### Proceso
-1) Ingresar a la plataforma
-2) Ingresar/ Registrarse
-3) Seleccionar el/los producto(s)
-4) Hacer clic en comprar ahora
-5) Ir al carro de compras
-6) Llenar los datos
-7) Pagar
-8) Recibir confirmacion de la compra
-9) Recibir producto(s)
+  1) Ingresar a la plataforma
+  2) Ingresar/ Registrarse
+  3) Seleccionar el/los producto(s)
+  4) Hacer clic en comprar ahora
+  5) Ir al carro de compras
+  6) Llenar los datos
+  7) Pagar
+  8) Recibir confirmacion de la compra
+  9) Recibir producto(s)
 #### Salida
 - Cliente satisfecho (espero)
 
@@ -42,15 +42,15 @@
 - Rut tienda
 - Direccion tienda.
 #### Proceso
-1) Ingresar a la plataforma
-2) Ingresar/ Registrarse
-3) Seleccionar el/los producto(s)
-4) Hacer clic en comprar ahora
-5) Ir al carro de compras
-6) Llenar los datos
-7) Pagar
-8) Recibir confirmacion de la compra
-9) Recibir producto(s)
+  1) Ingresar a la plataforma
+  2) Ingresar/ Registrarse
+  3) Seleccionar el/los producto(s)
+  4) Hacer clic en comprar ahora
+  5) Ir al carro de compras
+  6) Llenar los datos
+  7) Pagar
+  8) Recibir confirmacion de la compra
+  9) Recibir producto(s)
 #### Salida
 - Cliente satisfecho (espero)
 ## Reflexión
