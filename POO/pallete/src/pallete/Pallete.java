@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package palette;
+package pallete;
 
 /**
  *
  * @author SebaFarias
  */
-public class Palette {
+public class Pallete {
 
     /**
      * @param args the command line arguments
