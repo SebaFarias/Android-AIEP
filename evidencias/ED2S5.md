@@ -8,7 +8,7 @@
 ## Crear un Proyecto
 Crear un proyecto, agregarle una clase y métodos constructores y métodos de clase.
 ### Desarrollo 1
-Se crea el Proyecto [Palette](https://github.com/SebaFarias/modulo_programacion_basica_en_java/blob/master/POO/pallete/src/pallete)
+Se crea el Proyecto [Palette](https://github.com/SebaFarias/modulo_programacion_basica_en_java/blob/master/POO/pallete)
 con la clase [pallete.java](https://github.com/SebaFarias/modulo_programacion_basica_en_java/blob/master/POO/pallete/src/pallete/Pallete.java)
 ## Crear tres Clases
 Crear tres clases con sus respectivos atributos, método, métodos constructores por defecto y con todos los atributos, métodos accesores y crear distintas instancias en el main para probar las clases.
