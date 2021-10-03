@@ -24,15 +24,11 @@ public class Contador {
         }
     }
     public int incrementar(){
-        this.cont++;
+        this.setCont(this.cont + 1);
         return this.cont;
     }
     public int decrementar(){
-        this.cont--;
-        if(this.cont<0){
-            this.cont = 0;
-        }
+        this.setCont(this.cont - 1);
         return this.cont;
-    }
-    
+    }    
 }
