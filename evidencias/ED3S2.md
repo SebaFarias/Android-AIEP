@@ -53,4 +53,4 @@ Crear algoritmos en pseudocódigo para resolver los siguientes problemas:
 ![Ejecución](https://raw.githubusercontent.com/SebaFarias/modulo_programacion_basica_en_java/master/Diagramas%20de%20flujo/Operar.PNG)
 [Código](https://github.com/SebaFarias/modulo_programacion_basica_en_java/blob/master/Diagramas%20de%20flujo/operar.psc)
 ## Reflexion
-El día de hoy los ejercicios no me supusieron un gran reto por lo que me dediqué a encontrar estructuras de conrol dentro de pseInt, como la implementación del ejercicio 7 que me dejó bastante conforme.
+El día de hoy los ejercicios no me supusieron un gran reto por lo que me dediqué a encontrar estructuras de control dentro de pseInt, como la implementación del ejercicio 7 que me dejó bastante conforme.
