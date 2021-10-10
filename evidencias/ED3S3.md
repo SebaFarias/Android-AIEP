@@ -20,7 +20,7 @@
 2. Cree un programa que defina variables de distinto tipos
 ## Desarrollo 2
 - ![Ejecución](https://raw.githubusercontent.com/SebaFarias/modulo_programacion_basica_en_java/master/java/variables/Variables.PNG)
-- [Código](https://github.com/SebaFarias/modulo_programacion_basica_en_java/blob/master/java/variables/variables.java)
+- [Código](https://github.com/SebaFarias/modulo_programacion_basica_en_java/blob/master/java/variables/DeclararVariables.java)
 ## Promedios
 3. Calcular el promedio de 4 notas, esta vez ingresadas por el usuario vía teclado (usando función Scanner).
 ## Desarrollo 3
