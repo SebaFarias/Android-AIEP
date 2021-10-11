@@ -1,23 +1,30 @@
 package Mayor;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Scanner;
 
 public class Mayor {
 
+  public static int getMaxValue(List<Integer> numeros){
+    int max = Integer.MIN_VALUE;
+    for (int valor : numeros ) { max = valor > max ? valor : max;}
+    return max;
+  }
   public static void main(String[] args){
+
+    int n, i=0;
+    List<Integer> valores = new ArrayList<Integer>();
     Scanner leer = new Scanner(System.in);
-    int aux, n, max= Integer.MIN_VALUE;
 
     System.out.println("Indique la cantidad de números que desea ingresar");
     n = leer.nextInt();
-    for(int i=0;i<n;i++){
+    do{
       System.out.println("Ingrese el " + (i+1) +"° número:");
-      aux = leer.nextInt();
-      if(aux>max){
-        max=aux;
-      }
-    }
+      valores.add(leer.nextInt());
+      i++;
+    }while(i < n );
+    System.out.println("De los " + n + " números ingresados, el mayor es " 
+    + getMaxValue(valores));
     leer.close();
-    System.out.println("De los " + n + " números ingresados, el mayor es " + max);
-  }
-  
+  }  
 }
