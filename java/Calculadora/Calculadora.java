@@ -3,10 +3,12 @@ import java.util.Scanner;
 
 public class Calculadora {
   public static void main(String[] args) {
+    
     Scanner leer = new Scanner(System.in);
     boolean continuar = true;
     float op1, op2, res=0;
     char operation='+';
+    
     do{
         System.out.println("|------------------------------------|");
         System.out.println("|                                    |");
@@ -38,11 +40,13 @@ public class Calculadora {
         System.out.println("|      Continuar? (S)i  / (N)o       |");
         operation = leer.next().charAt(0);
         if(operation == 'n' || operation == 'N'){
-          leer.close();
-            continuar = false;
-            System.out.println("|             Saliendo...             |");
-            System.out.println("|-------------------------------------|");
+          continuar = false;
         }
-    }while(continuar);
+
+      }while(continuar);
+
+      leer.close();
+      System.out.println("|             Saliendo...             |");
+      System.out.println("|-------------------------------------|");
 }   
 }
