@@ -67,5 +67,5 @@ En cada ejercicio, determinar las variables y/o constantes involucradas.
 ## Desarrollo 9
 ![Ejecución](https://raw.githubusercontent.com/SebaFarias/modulo_programacion_basica_en_java/master/Diagramas%20de%20flujo/Intercambio2.PNG)
 [Código](https://github.com/SebaFarias/modulo_programacion_basica_en_java/blob/master/Diagramas%20de%20flujo/intercambio2.psc)
-## Reflexión
+## Reflexion
 Se me da bastante fácil pseInt, aunque no lo había usado nunca y eso me motiva bastante. El ejercicio de hoy sobre intercambiar dos variables sin usar una variable auxiliar me hizo pensar un montón.
