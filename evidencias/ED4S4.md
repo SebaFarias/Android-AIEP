@@ -26,14 +26,14 @@ b)	Crear un arreglo donde el usuario entregue limite  máximo de números del ar
 c)	Crear un arreglo, llenarlo con valores, luego sumar el numero en "x" e "y" posición (posiciones x e y, determinadas por el usuario) y luego mostrar el resultado por pantalla
 
 ### Desarrollo 2
-![Captura](https://raw.githubusercontent.com/SebaFarias/modulo_programacion_basica_en_java/master/java/Arreglos/Arreglos.png)
+![Captura](https://raw.githubusercontent.com/SebaFarias/modulo_programacion_basica_en_java/master/java/Arreglos/Arreglos.PNG)
 [Codigo](https://github.com/SebaFarias/modulo_programacion_basica_en_java/blob/master/java/Arreglos/Arreglos.java)
 
 ## Suma de Arreglos
 Crear dos arreglos, llenarlos con valores, luego sumar el numero en posición "x" del arreglo 1 y el número en posición "y" del arreglo 2 (posiciones x e y, determinadas por el usuario) y luego mostrar el resultado por pantalla
 
 ### Desarrollo 3
-![Captura](https://raw.githubusercontent.com/SebaFarias/modulo_programacion_basica_en_java/master/java/SumaArreglos/SumaArreglos.png)
+![Captura](https://raw.githubusercontent.com/SebaFarias/modulo_programacion_basica_en_java/master/java/SumaArreglos/SumaArreglos.PNG)
 [Codigo](https://github.com/SebaFarias/modulo_programacion_basica_en_java/blob/master/java/SumaArreglos/SumaArreglos.java)
 ## Reflexion
 Me encantan los problemas matemáticos como el de los números perfectos. Al principio no me di cuenta que el ciclo for con el que lo implementé solo necesitaba recorrer la primera mitad de los números menores q él.
